@@ -257,7 +257,7 @@ background: #141414;
   color: #000;
 }
 #hero-banner{
-  background: #000000 url('../images/banner/bg1.png') no-repeat 100% bottom;
+  background: #FFFFFF url('../images/banner/bg.png') no-repeat 100% bottom;
   }
 #hero-banner h2 {
   margin-top: 180px;
@@ -346,7 +346,7 @@ background: #141414;
 }
 #hero-banner h2, 
 #hero-banner p {
-color: #FFFFFF; /* Color for Hero Text */
+color: #000000; /* Color for Hero Text */
 }
 .media.service-box:hover .pull-left > i {  
 }
