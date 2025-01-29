@@ -439,7 +439,7 @@ margin: 15px auto;
 }
 #portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
-  border: 20px solid rgba(0, 0, 0, 0.15);
+  border: 1px solid rgba(0, 0, 0, 0.15); /* Borda superior do preview */
   transform: scale(.9);
 }
 /* Start: Recommended Isotope styles */
