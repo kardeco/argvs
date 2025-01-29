@@ -7,7 +7,7 @@ Author URL: http://webthemez.com
 *******Typography******
 **************************/
 body {
-  padding-top: 100px;
+  /*padding-top: 100px;*/ /*Margem superior do Hero*/
   background: #E0E0E0;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
@@ -239,7 +239,7 @@ background: #141414;
 }
 #hero-banner{
   overflow: hidden;
-  height:450px;
+  height:600px; /* Recorte inferior*/
   color: #4C4C4C;
 }
 #hero-banner.item {
@@ -257,10 +257,10 @@ background: #141414;
   color: #000;
 }
 #hero-banner{
-  background: #FFFFFF url('../images/banner/bg.png') no-repeat 100% bottom;
+  background: #FFFFFF url('../images/banner/bg.jpg') no-repeat 0% bottom;
   }
 #hero-banner h2 {
-  margin-top: 30px;
+  margin-top: 200px;
   font-size: 39px;
   line-height: 49px;  
   color: #fff;
